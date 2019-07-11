@@ -1,3 +1,3 @@
 import { green } from "chalk";
 
-console.log(green('Starting App in Dev Mode...'));
+console.log(green('App Starting in Development Mode...')); //eslint-disable-line no-console
